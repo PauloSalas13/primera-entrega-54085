@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #007bff; /* Azul */
+    color: #ffffff; /* Blanco */
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar li {
+    margin-right: 20px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: inherit;
+  }
